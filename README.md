@@ -9,4 +9,4 @@ Authors:
 
 •Famous Mary<Marybliss>
 
-•Lucky Lucky<Lucky Lucky>
+•Lucky Daniels<700lucky>

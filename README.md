@@ -7,6 +7,6 @@ The project currently only implements the back-end console.
 
 Authors:
 
-•Famous Mary <Marybliss>
+•Famous Mary<Marybliss>
 
-•Lucky Lucky <Lucky Lucky>
+•Lucky Lucky<Lucky Lucky>
